@@ -1,4 +1,4 @@
-- 👋 Olá eu sou nefi e tenho 26 anos.
+- 👋 Olá eu sou nefi(ele) e tenho 26 anos.
 - 👀 Gosto de aprender sobre programação.
 - 🌱 Atualmente estou cursando Desenvolvimento de sistemas multiplataforma.
 - 📫 Podem me contatar pelo Github ou pelo meu linkedin : Nefi Lehi de Moraes : https://www.linkedin.com/in/nefi-lehi-de-moraes-b8673760/
